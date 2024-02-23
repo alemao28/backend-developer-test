@@ -1,5 +1,8 @@
 # Backend Developer Technical Assessment
 ### User Actions
+start: node ./bin/www
+
+http://localhost:3000
 
 Convert the following use cases into API endpoints:
 
